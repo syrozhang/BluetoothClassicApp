@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BTChat</string>
+    <string name="txt0">搜索</string>
+    <string name="txt1">蓝牙开关</string>
+    <string name="txt2">Discoverble Bluetooth</string>
+    <string name="txt3">配对的设备:</string>
+    <string name="txt4">可用的设备:</string>
+    <string name="txt5">发送</string>
+    <string name="txt_cancel_pair">取消配对</string>
+</resources>
